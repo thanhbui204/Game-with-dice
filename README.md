@@ -1,5 +1,5 @@
 # Game-with-dice
-
+<p> Using JavaScript and Jquery to create a game with dice </p>
 <ul>GAME RULES:
   <li> The game has 2 players, playing in rounds </li>
   <li> Enter maximum points to Max-score input field. </li>
