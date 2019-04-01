@@ -8,4 +8,5 @@
   <li> The player can choose to 'Hold', which means that his ROUND score gets added to his score (score on the top). After that, it's the next player's turn </li>
   <li> The first player to reach to the points on the MAX-SCORE box wins the game </li>
 </ul>
+<p> Link to my game: </p>
 
